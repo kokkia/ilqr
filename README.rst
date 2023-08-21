@@ -20,6 +20,7 @@ To install, clone and run:
 .. code-block:: bash
 
   python setup.py install
+  pip install numpy==1.20.3
 
 You may also install the dependencies with `pipenv` as follows:
 
